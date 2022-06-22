@@ -63,7 +63,7 @@ footer{
    
 <br><br><br>
 <header>
-     <h1>Getting Started</h1><br><br><br>
+     <h1>Adm Login Page</h1><br><br><br>
      <div class="box">
         <a href="login.php">Login</a>
         <a href="signup.php">SignUp</a>
